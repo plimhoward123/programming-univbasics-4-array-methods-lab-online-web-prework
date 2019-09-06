@@ -14,12 +14,14 @@ end
 
 def using_first(array)
   fir_array = array.first
+  return fir_array
 end
 
 def using_last(array)
-
+  las_array = array.last
+  return las_array
 end
 
 def using_size(array)
-
+    return si_array = array.size
 end
